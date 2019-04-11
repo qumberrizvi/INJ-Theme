@@ -1,0 +1,21 @@
+----- v1.0 ------------
+2017/07/30: Initial Release
+
+2018/11/23: Theme version 3.2.5
+- Updated plugin Visual Composer to 5.5.5
+- Updated plugin InWave Jobs to 3.2.5
+- Updated plugin Inwave Common Version InJob to 3.2.5
+- Updated theme support woocommerce 3.5.1
+- Added action before login (iwj_before_login:username)
+- Added Membership plan
+- Add more language: Italia, Portugal, Netherland, Poland
+- Fixed issue to allow candidate/employer slug auto aupdate follow by name
+- Fixed issue employer count job
+- Fixed login captcha when not active
+- Fixed renew job free mode with woocommerce
+- Fixed multilange switch
+- Fixed Search map invalid request
+- Fixed renew job/feature job not work
+- Fixed some small bug issues
+
+
